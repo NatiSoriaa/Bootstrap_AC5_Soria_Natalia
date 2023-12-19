@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://www.xtrafondos.com/wallpapers/resoluciones/23/hogwarts-harry-potter_2560x1440_11461.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.card{
+    width: 300px;
+    align-content:space-around;
+}
+
+
+
+
